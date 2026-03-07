@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on Chessmax<br>
+🔭 I’m currently working on Bait and Panic<br>
 
 
 ## 🌐 Socials:
