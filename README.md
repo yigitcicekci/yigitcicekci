@@ -43,20 +43,6 @@ Currently working on backend systems and experimental developer tools.
 
 ---
 
-# 📊 GitHub Stats
-![](https://github-readme-stats.vercel.app/api?username=yigitcicekci-dev&theme=shadow_red&hide_border=false&include_all_commits=false&count_private=false)
-
-![](https://nirzak-streak-stats.vercel.app/?user=yigitcicekci-dev&theme=shadow_red&hide_border=false)
-
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=yigitcicekci-dev&theme=shadow_red&hide_border=false&layout=compact)
-
----
-
-# 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=yigitcicekci-dev&theme=shadow_red&no-frame=false&no-bg=true&margin-w=4)
-
----
-
 # 📌 Focus Areas
 
 - Backend architecture  
