@@ -100,7 +100,7 @@ AI Developer Tools       █████████████░░░░░�
 
 ---
 
-## Contribution Activity
+## Contributions
 
 <picture>
   <source
