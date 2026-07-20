@@ -80,18 +80,23 @@ AI Developer Tools       █████████████░░░░░�
 ## GitHub Activity
 
 <div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=yigitcicekci&show_icons=true&hide_border=true&theme=transparent&rank_icon=github" height="165" alt="Yiğit's GitHub statistics" />
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=yigitcicekci&layout=compact&hide_border=true&theme=transparent&langs_count=8" height="165" alt="Yiğit's most used languages" />
-
+  <img
+    src="https://github-readme-stats.vercel.app/api?username=yigitcicekci&show_icons=true&hide_border=true&theme=transparent&rank_icon=github"
+    height="165"
+    alt="Yiğit's GitHub statistics"
+  />
+  <img
+    src="https://github-readme-stats.vercel.app/api/top-langs?username=yigitcicekci&layout=compact&hide_border=true&theme=transparent&langs_count=8"
+    height="165"
+    alt="Yiğit's most used languages"
+  />
+  <br />
+  <img
+    src="https://streak-stats.demolab.com?user=yigitcicekci&theme=transparent&hide_border=true"
+    alt="Yiğit's GitHub contribution streak"
+  />
 </div>
 
-<div align="center">
-
-<img src="https://streak-stats.demolab.com?user=yigitcicekci&theme=transparent&hide_border=true" alt="Yiğit's GitHub contribution streak" />
-
-</div>
 
 ---
 
