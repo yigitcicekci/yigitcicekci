@@ -81,23 +81,15 @@ AI Developer Tools       █████████████░░░░░�
 
 <div align="center">
   <img
-    src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=yigitcicekci&theme=transparent"
-    height="165"
-    alt="Yiğit's GitHub statistics"
-  />
-  <img
-    src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=yigitcicekci&theme=transparent"
-    height="165"
-    alt="Yiğit's most used languages"
+    src="https://streak-stats.demolab.com?user=yigitcicekci&theme=transparent&hide_border=true"
+    alt="Yiğit's GitHub contribution streak"
   />
 </div>
 
-<br />
-
 <div align="center">
   <img
-    src="https://streak-stats.demolab.com?user=yigitcicekci&theme=transparent&hide_border=true"
-    alt="Yiğit's GitHub contribution streak"
+    src="https://github-readme-activity-graph.vercel.app/graph?username=yigitcicekci&theme=github-compact&hide_border=true&area=true"
+    alt="Yiğit's GitHub activity graph"
   />
 </div>
 
