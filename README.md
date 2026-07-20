@@ -68,6 +68,6 @@
 
 ###
 
-<p data-importer="text" align="left">Open to backend, full-stack, and software engineering opportunities.<br><br>LinkedIn: [yigitcicekci](https://linkedin.com/in/yigitcicekci)</p>
+<p data-importer="text" align="left">Open to backend, full-stack, and software engineering opportunities.<br><br> LinkedIn: [yigitcicekci](https://linkedin.com/in/yigitcicekci)</p>
 
 ###
