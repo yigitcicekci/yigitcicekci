@@ -97,11 +97,20 @@ AI Developer Tools       █████████████░░░░░�
 
 ## Contribution Activity
 
-<div align="center">
-
-<img src="https://raw.githubusercontent.com/yigitcicekci/yigitcicekci/snake-output/snake.svg" alt="GitHub contribution snake animation" />
-
-</div>
+<picture>
+  <source
+    media="(prefers-color-scheme: dark)"
+    srcset="https://raw.githubusercontent.com/yigitcicekci/yigitcicekci/snake-output/snake-dark.svg"
+  />
+  <source
+    media="(prefers-color-scheme: light)"
+    srcset="https://raw.githubusercontent.com/yigitcicekci/yigitcicekci/snake-output/snake.svg"
+  />
+  <img
+    alt="GitHub contribution snake animation"
+    src="https://raw.githubusercontent.com/yigitcicekci/yigitcicekci/snake-output/snake.svg"
+  />
+</picture>
 
 ---
 
